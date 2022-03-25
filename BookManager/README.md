@@ -1,4 +1,4 @@
-# ExtensionMethodExample
+# ExtensionMethodExamples
 
 Background for this project was an article by Matt Eland at this address:
 
